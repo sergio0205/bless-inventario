@@ -144,7 +144,7 @@ Prueba Técnica 2026
 
 ### 1️⃣ Clonar el repositorio 
 ```bash
-git clone https://github.com/tu-usuario/bless-inventario.git
+git clone https://github.com/sergio0205/bless-inventario.git
 cd bless-inventario
 
 
