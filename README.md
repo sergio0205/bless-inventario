@@ -109,7 +109,7 @@ Este proyecto fue desarrollado como **prueba técnica**, cubriendo el flujo comp
 
 ## Abrir en el navegador
 
-- http://127.0.0.1:8000
+- http://127.0.0.1:8000/products
 
 ---
 
