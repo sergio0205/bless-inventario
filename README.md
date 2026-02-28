@@ -112,6 +112,10 @@ Este proyecto fue desarrollado como **prueba técnica**, cubriendo el flujo comp
 - http://127.0.0.1:8000/products
 
 ---
+> ⚠️ Antes de ejecutar el proyecto, asegúrese de que el servicio de **MySQL** esté en ejecución  
+> (por ejemplo, iniciándolo desde XAMPP u otro entorno local).
+
+---
 
 ## Uso del Sistema
 
