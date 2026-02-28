@@ -109,7 +109,11 @@ Este proyecto fue desarrollado como **prueba técnica**, cubriendo el flujo comp
 
 ## Abrir en el navegador
 
-- http://127.0.0.1:8000
+- http://127.0.0.1:8000/products
+
+---
+> ⚠️ Antes de ejecutar el proyecto, asegúrese de que el servicio de **MySQL** esté en ejecución  
+> (por ejemplo, iniciándolo desde XAMPP u otro entorno local).
 
 ---
 
@@ -144,7 +148,7 @@ Prueba Técnica 2026
 
 ### 1️⃣ Clonar el repositorio 
 ```bash
-git clone https://github.com/tu-usuario/bless-inventario.git
+git clone https://github.com/sergio0205/bless-inventario.git
 cd bless-inventario
 
 
